@@ -10,7 +10,7 @@
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
-		"promotions": ["[Cavalry Mandekalu] ability"],
+		"promotions": ["[Mandekalu Cavalry] ability"],
 		"obsoleteTech": "Military Science",
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "horse"
