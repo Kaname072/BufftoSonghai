@@ -1,38 +1,34 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Songhai",
+		"leaderName": "Askia",
+		"adjective": ["Songhai"],
+		"startBias": ["Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		"personality": "Askia",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"startIntroPart1": "Askia, leader of the Songhai people and greatest of all, may God watch your path towards glory! Songhai was under the rule of the mighty West African state of Mali until the middle of the 14th century. Great King Sunni Ali Ber fought for independance, and showed to all Songhai's power, by conquering territories and repelling many foes who sought to destroy the rising kingdom. Ultimately, conquest of the wealthy cities of Timbuktu and Jenne made Songhai an empire with enough economic power to survive for a century, until the empire bowed down before foes with advanced technology - muskets against spearmen.",
+		"startIntroPart2": "King Askia, your people know there's still hope, that the hour of revenge is coming. Give them wealth and power, give them mighty weapons of iron and fire, to destroy any foe, for Songhai to revive! Will your new empire shine through the ages of history?",
+		"declaringWar": "You are an abomination to heaven and earth, the chief of ignorant savages! You must be destroyed!",
+		"attacked": "Fool! You have doomed your people to fire and destruction!",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"defeated": "We have been consumed by the fires of hatred and rage. Enjoy your victory in this world - you shall pay a heavy price in the next!",
+		"denounced": "This insult shall cost you thousandfold.",
+		"introduction": "I am Askia of the Songhai. We are a fair people - but those who cross us will find only destruction. You would do well to avoid repeating the mistakes others have made in the past.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"neutralHello": "Greetings.",
+		"hateHello": "Oh, it's you.",
+		"tradeRequest": "Can I interest you in this deal?",
+
+		"outerColor": [214, 145, 19],
+		"innerColor": [90, 0, 10],
+		"favoredReligion": "Islam",
+		"uniqueName": "River Warlord",
+		"uniques": ["Receive [+200]% Gold from Barbarian encampments and pillaging Cities", "[+100]% Strength <when defending> <for [Embarked] units>",
+			"[{Military} {Land}] units gain the [Amphibious] promotion"],
+		"cities": ["Gao","Tombouctu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
+			"Kebbi","Boussa","Motpi","Bamako","Wa","Kayes","Awdaghost","Ouadane","Dakar","Tadmekket","Tekedda","Kano",
+			"Agadez","Niamey","Torodi","Ouatagouna","Dori","Bamba","Segou"],
+		"spyNames": ["Ahmadou", "Ayub", "Badru", "Bokhari", "Guedado", "Adhiambo", "Chinaka", "Laila", "Mariama", "Oni"]
 	}
 ]
